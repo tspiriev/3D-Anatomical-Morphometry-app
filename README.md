@@ -35,6 +35,7 @@ Use **Help → Research References** to jump to the bibliography in the app.
 | Target area (distal exposure) | Area of the annotated region exposed at the deep end, calculated using the same projected-hull method. |
 | Target distance | Distance between the centers of the entry and target regions. |
 | VOM corridor | The displayed tapered geometry between the fitted entry and target regions. VOM (Volume of Operative Maneuverability) estimates its volume from the two areas and an effective corridor height. |
+| VSF corridor |VSF (Volume of surgical freedom) estimates how much room an instrument has to pivot while its tip stays on one specific target point. Its boundary comes from the instrument’s measured extremes of movement.|
 | Horizontal angle of attack | The side-to-side angular span in degrees. From the target center, take the difference between the farthest left and right directions to the Area of Exposure in the corridor’s horizontal plane. |
 | Vertical angle of attack | The up-and-down angular span in degrees. From the target center, take the difference between the highest and lowest directions to the Area of Exposure in the corridor’s vertical plane. |
 | AoA (major / minor) | The original estimates from the long and short axes of the fitted entry ellipse. These are separate from the horizontal and vertical values. |
